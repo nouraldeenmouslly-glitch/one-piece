@@ -1,6 +1,6 @@
 function Footer() {
   return (
-    <footer className="text-light bg-dark" id="footer">
+    <footer className="text-light bg-black" id="footer">
       <div className="container py-5">
         <div className="row gy-4">
           <div className="col-md-4">
@@ -66,7 +66,7 @@ function Footer() {
           <div className="col-md-3">
             <h5 className="text-warning mb-3">Contact</h5>
 
-            <p className="opacity-75 mb-2">📍 Tokyo Inspired Restaurant</p>
+            <p className="opacity-75 mb-2">📍 Tokyo </p>
 
             <p className="opacity-75 mb-2">☎ +963 90752146</p>
 
@@ -77,7 +77,7 @@ function Footer() {
             <h5 className="text-warning mb-3">Follow Us</h5>
 
             <p className="opacity-75">
-              Stay connected and discover our latest dishes.
+              Stay connected and discover our website
             </p>
 
             <div>

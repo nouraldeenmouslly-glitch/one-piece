@@ -25,7 +25,7 @@ function Section1() {
       <div className="container">
         <div className="row my-5">
           <div className="col-md-6 d-flex align-items-center justify-content-center text-center">
-            <img src="../content-ima01.png" alt="" />{" "}
+            <img src="/content-ima01.png" alt="" />{" "}
             <h2 className="h1 ">
               Different <br />
               demos

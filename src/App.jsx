@@ -1,8 +1,8 @@
-import Header from "./assets/my project/header";
-import Section1 from "./assets/my project/section1";
-import Section2 from "./assets/my project/section2";
-import Section3 from "./assets/my project/section3";
-import Footer from "./assets/my project/footer";
+import Header   from "./component/Header";
+import Section1 from "./component/section1"
+import Section2 from "./component/section2"; 
+import Section3 from "./component/Section3"; 
+import Footer  from "./component/Footer";
 function App() {
   return (
     <>
